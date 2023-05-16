@@ -12,7 +12,7 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);	
 		
-		System.out.println("Enter account data ");
+		System.out.println("Enter account data");
 		System.out.print("Number: ");
 		int number = sc.nextInt();
 		System.out.print("Holder: ");
